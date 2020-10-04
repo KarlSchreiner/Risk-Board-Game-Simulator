@@ -1,0 +1,3 @@
+C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\RiskGame.cpp.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\RiskGame.cpp.dir/objects.a @CMakeFiles\RiskGame.cpp.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RiskGame.cpp.dir/objects.a -Wl,--no-whole-archive  -o RiskGame.cpp.exe -Wl,--out-implib,libRiskGame.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RiskGame.cpp.dir\linklibs.rsp
