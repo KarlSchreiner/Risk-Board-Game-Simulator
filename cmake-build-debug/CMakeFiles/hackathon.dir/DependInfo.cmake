@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Karl/Desktop/hackathon/RiskGame.cpp" "C:/Users/Karl/Desktop/hackathon/cmake-build-debug/CMakeFiles/hackathon.dir/RiskGame.cpp.obj"
-  "C:/Users/Karl/Desktop/hackathon/RiskGameSimulatorDriver.cpp" "C:/Users/Karl/Desktop/hackathon/cmake-build-debug/CMakeFiles/hackathon.dir/RiskGameSimulatorDriver.cpp.obj"
-  "C:/Users/Karl/Desktop/hackathon/RiskGamesSimulator.cpp" "C:/Users/Karl/Desktop/hackathon/cmake-build-debug/CMakeFiles/hackathon.dir/RiskGamesSimulator.cpp.obj"
+  "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGame.cpp" "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/cmake-build-debug/CMakeFiles/Hackathon.dir/RiskGame.cpp.obj"
+  "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGameSimulatorDriver.cpp" "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/cmake-build-debug/CMakeFiles/Hackathon.dir/RiskGameSimulatorDriver.cpp.obj"
+  "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGamesSimulator.cpp" "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/cmake-build-debug/CMakeFiles/Hackathon.dir/RiskGamesSimulator.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

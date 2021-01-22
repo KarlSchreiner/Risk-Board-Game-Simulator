@@ -1,3 +1,0 @@
-C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\RiskGameSimulatorDriver.cpp.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\RiskGameSimulatorDriver.cpp.dir/objects.a @CMakeFiles\RiskGameSimulatorDriver.cpp.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RiskGameSimulatorDriver.cpp.dir/objects.a -Wl,--no-whole-archive  -o RiskGameSimulatorDriver.cpp.exe -Wl,--out-implib,libRiskGameSimulatorDriver.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RiskGameSimulatorDriver.cpp.dir\linklibs.rsp

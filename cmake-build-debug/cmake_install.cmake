@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Karl/Desktop/hackathon
+# Install script for directory: C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Karl/Desktop/hackathon/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

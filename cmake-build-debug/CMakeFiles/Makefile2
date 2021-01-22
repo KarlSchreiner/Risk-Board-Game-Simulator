@@ -54,19 +54,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\Karl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Karl\Desktop\hackathon
+CMAKE_SOURCE_DIR = "C:\Users\Karl\Desktop\Risk Simulator\Risk-Board-Game-Simulator"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Karl\Desktop\hackathon\cmake-build-debug
+CMAKE_BINARY_DIR = "C:\Users\Karl\Desktop\Risk Simulator\Risk-Board-Game-Simulator\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -93,14 +93,14 @@ clean: CMakeFiles/Hackathon.dir/clean
 CMakeFiles/Hackathon.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hackathon.dir\build.make CMakeFiles/Hackathon.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Hackathon.dir\build.make CMakeFiles/Hackathon.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Karl\Desktop\hackathon\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target Hackathon"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\Karl\Desktop\Risk Simulator\Risk-Board-Game-Simulator\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target Hackathon"
 .PHONY : CMakeFiles/Hackathon.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Hackathon.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Karl\Desktop\hackathon\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Karl\Desktop\Risk Simulator\Risk-Board-Game-Simulator\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Hackathon.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Karl\Desktop\hackathon\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Karl\Desktop\Risk Simulator\Risk-Board-Game-Simulator\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Hackathon.dir/rule
 
 # Convenience name for target.

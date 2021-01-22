@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Karl/Desktop/hackathon/RiskGame.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGame.cpp
+RiskGame.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGame.h
+
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGame.h
 bits/stdc++.h
 -
 cstdint
@@ -16,17 +20,21 @@ cstdlib
 vector
 -
 
-C:/Users/Karl/Desktop/hackathon/RiskGameSimulatorDriver.cpp
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGameSimulatorDriver.cpp
 RiskGamesSimulator.h
-C:/Users/Karl/Desktop/hackathon/RiskGamesSimulator.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGamesSimulator.h
 iostream
 -
-RiskGameSimulatorDriver.h
-C:/Users/Karl/Desktop/hackathon/RiskGameSimulatorDriver.h
 
-C:/Users/Karl/Desktop/hackathon/RiskGameSimulatorDriver.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGamesSimulator.cpp
+RiskGamesSimulator.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGamesSimulator.h
+iostream
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/iostream
 
-C:/Users/Karl/Desktop/hackathon/RiskGamesSimulator.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGamesSimulator.h
 RiskGame.h
-C:/Users/Karl/Desktop/hackathon/RiskGame.h
+C:/Users/Karl/Desktop/Risk Simulator/Risk-Board-Game-Simulator/RiskGame.h
+fstream
+-
 
